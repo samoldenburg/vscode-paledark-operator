@@ -1,0 +1,22 @@
+{
+    "name": "vscode-paledark-operator",
+    "displayName": "VSCode Paledark Operator",
+    "description": "Like palenight meets glacier or something",
+    "version": "0.0.1",
+    "publisher": "soldenburg",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paledark Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Paledark Operator-color-theme.json"
+            }
+        ]
+    }
+}
