@@ -1,7 +1,7 @@
 {
     "name": "vscode-paledark-operator",
     "displayName": "VSCode Paledark Operator",
-    "description": "Like palenight meets glacier or something",
+    "description": "Palenight Operator meets Glacier. Very dark theme with vibrant colors with Operator Mono support.",
     "version": "1.0.0",
     "publisher": "soldenburg",
     "engines": {
