@@ -2,7 +2,7 @@
     "name": "vscode-paledark-operator",
     "displayName": "VSCode Paledark Operator",
     "description": "Like palenight meets glacier or something",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "soldenburg",
     "engines": {
         "vscode": "^1.20.0"
