@@ -1,13 +1,6 @@
-# README
-## This is the README for your extension "vscode-paledark-operator"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Visual Studio Code - Paledark Operator Theme
+Shameless edit of Palenight Operator which looks slightly darker.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Specifically intended to work with the Operator Mono font, but should be fine with any font unless you don't like bits of your code being italicized.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Expect it to look similar to [https://github.com/whizkydee/vscode-material-palenight-theme](https://github.com/whizkydee/vscode-material-palenight-theme) just darker with maybe a few color tweaks.
